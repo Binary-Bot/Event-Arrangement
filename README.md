@@ -1,4 +1,4 @@
-# event-arrangement
+# Event Arrangement
 
 This is a web application that allows users to:
 - input events, locations and location preferences (optional)
