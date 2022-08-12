@@ -1,0 +1,6 @@
+﻿event_cde,event_title,event_enrollment,event_capacity,max_enrollment,begin_time,end_time,begin_date,end_date,bldg_cde,room_cde,monday_cde,tuesday_cde,wednesday_cde,thursday_cde,friday_cde,saturday_cde,sunday_cde
+ACC,Accounting 101,27,50,50,9:00,9:50,5/26/2022,7/26/2022,PL,210,M,,W,,F,,
+HBD,Birthday Party,49,50,50,12:30,16:20,5/19/2022,6/21/2022,PL,210,,T,W,R,,,
+XYZ,Awesome Event,110,150,130,8:00,12:00,6/10/2022,7/10/2022,SR,107,,T,,R,,,
+ABC,News Broadcast,35,50,40,7:00,7:50,5/9/2022,8/24/2022,BA,10,M,T,W,R,F,,
+WED,Wedding,125,150,125,11:00,14:00,5/20/2022,7/22/2022,,,M,,,,,,
